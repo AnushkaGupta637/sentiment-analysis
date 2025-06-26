@@ -1,6 +1,6 @@
 import streamlit as st
-import re
 import nltk
+import re
 import joblib
 from nltk.corpus import stopwords
 
